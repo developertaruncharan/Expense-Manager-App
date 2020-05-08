@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294514598847",
+    "firebase_url": "https://best-expense-manager.firebaseio.com",
+    "project_id": "best-expense-manager",
+    "storage_bucket": "best-expense-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294514598847:android:dd8d1cffff8c8a446cb70a",
+        "android_client_info": {
+          "package_name": "com.example.bestexpensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294514598847-fi8fd6l83dsd8m6k33eo9vr7ih2ajpu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bestexpensemanager",
+            "certificate_hash": "2d4845438602a1fb3aead42b67948547da53bda4"
+          }
+        },
+        {
+          "client_id": "294514598847-vh8kfglr34qgn4v685j4g1j9bat3drsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBx84LJ1ypEup7Cn3lV_8d3IqX9e24rbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294514598847-vh8kfglr34qgn4v685j4g1j9bat3drsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
