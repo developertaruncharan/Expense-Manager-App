@@ -1,2 +1,3 @@
-Simplifies your expense maagement .
-Best project made by me
+# Expense Manager App
+###Best project made by me.
+
