@@ -7,5 +7,7 @@ Seperate sections to view expense data and income data .
 user can logout of one account and use another if he wants.
 *UI* is neat and clean.
 
-[Link to screenshots](https://github.com/developertaruncharan/BestExpenseManager/tree/master/screenshots)
+[Link to all screenshots](https://github.com/developertaruncharan/BestExpenseManager/tree/master/screenshots)
+<p> Some screenshots<p>
 
+![Login](screenshots/Login.png) ![](screenshots/Home%20Screen.png) ![](screenshots/Navigation%20drawer.png) ![](screenshots/Income%20Fragment.png)
